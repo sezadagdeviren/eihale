@@ -5,3 +5,8 @@ client/node_modules/
 .env
 .DS_Store
 *.log
+images/
+expertise_reports/
+__pycache__/
+test_click.js
+test_click_mouse.js
